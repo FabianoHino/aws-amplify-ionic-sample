@@ -1,0 +1,19 @@
+{
+    "awsenvamp": {
+        "awscloudformation": {
+            "AuthRoleName": "awsamplifyionicsampl-awsenvamp-20190829100751-authRole",
+            "UnauthRoleArn": "arn:aws:iam::622889696879:role/awsamplifyionicsampl-awsenvamp-20190829100751-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::622889696879:role/awsamplifyionicsampl-awsenvamp-20190829100751-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "awsamplifyionicsampl-awsenvamp-20190829100751-deployment",
+            "UnauthRoleName": "awsamplifyionicsampl-awsenvamp-20190829100751-unauthRole",
+            "StackName": "awsamplifyionicsampl-awsenvamp-20190829100751",
+            "StackId": "arn:aws:cloudformation:us-east-1:622889696879:stack/awsamplifyionicsampl-awsenvamp-20190829100751/0230f410-ca5e-11e9-b2c3-1202dd259b0c"
+        },
+        "categories": {
+            "auth": {
+                "awsamplifyionicsampl8775a19c": {}
+            }
+        }
+    }
+}
